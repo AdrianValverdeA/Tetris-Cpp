@@ -1,0 +1,6 @@
+﻿  Partida.cpp
+C:\tetris-452-11\0. C++ Code\Logic Game\Partida.cpp(242,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\tetris-452-11\0. C++ Code\Logic Game\Partida.cpp(241,38): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\tetris-452-11\0. C++ Code\Logic Game\Partida.cpp(279,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\tetris-452-11\0. C++ Code\Logic Game\Partida.cpp(289,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  MP_Practica.vcxproj -> C:\tetris-452-11\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
